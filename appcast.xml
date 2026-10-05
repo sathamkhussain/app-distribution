@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>App Updates</title>
-    <link>https://sathamkhussain.github.io/app-distribution/</link>
-    <description>Updates for our macOS TestFlight management app.</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ShipDeck</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Mon, 05 Oct 2026 15:02:30 +0400</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sathamkhussain/app-distribution/releases/download/test-build2/ShipDeck-1.0-build2.dmg" length="4337396" type="application/octet-stream" sparkle:edSignature="E/kv/pxA/7Qo/Aq0lVXEa5y7vDoE/w2EqlcregyRqsaz/cGXmjojWEFWcJL1rSHmNX1Y+Ew8QlsHOx2W74KEDA=="/>
+        </item>
+    </channel>
 </rss>
