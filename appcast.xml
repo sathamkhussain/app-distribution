@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>App Updates</title>
+    <link>https://sathamkhussain.github.io/app-distribution/</link>
+    <description>Updates for our macOS TestFlight management app.</description>
+    <language>en</language>
+  </channel>
+</rss>

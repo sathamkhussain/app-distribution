@@ -1,0 +1,10 @@
+.DS_Store
+*.p8
+*.p12
+*.pem
+*.key
+*private-key*
+secrets/
+*.dmg
+*.zip
+*.delta
